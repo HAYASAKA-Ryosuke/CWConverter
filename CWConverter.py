@@ -49,7 +49,6 @@ print listsignal
 for text in listsignal:
     if text==A:
         listresult.append('A')
-        print 'A'
     elif text==B:
         listresult.append('B')
     elif text==C:
